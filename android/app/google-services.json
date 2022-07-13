@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "945636602928",
+    "project_id": "arcgis-931e1",
+    "storage_bucket": "arcgis-931e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945636602928:android:f1c1ec12a546cf28b1e9f5",
+        "android_client_info": {
+          "package_name": "com.example.google_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945636602928-heg0qlaff0i6ca3uf1i97gf166k43t5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-YwYxVlJOrZRSlLKBTVhzcJNla9ZgX94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945636602928-heg0qlaff0i6ca3uf1i97gf166k43t5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945636602928:android:3dac611e8c440f1eb1e9f5",
+        "android_client_info": {
+          "package_name": "com.example.micron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945636602928-heg0qlaff0i6ca3uf1i97gf166k43t5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-YwYxVlJOrZRSlLKBTVhzcJNla9ZgX94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945636602928-heg0qlaff0i6ca3uf1i97gf166k43t5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
